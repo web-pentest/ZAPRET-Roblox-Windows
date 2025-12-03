@@ -1,0 +1,16 @@
+# Roblox DPI Bypass
+roblox.com
+www.roblox.com
+api.roblox.com
+clientsettings.roblox.com
+setup.roblox.com
+auth.roblox.com
+users.roblox.com
+groups.roblox.com
+thumbnails.roblox.com
+avatar.roblox.com
+chat.roblox.com
+*.rblx.com
+*.rblxcdn.com
+ws*.roblox.com
+wss*.roblox.com
